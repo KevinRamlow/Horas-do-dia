@@ -28,6 +28,7 @@ input {
     height: 50px;
     font: 14pt Arial; 
     cursor: pointer;
+    border-radius: 10px;
     
 } 
 
